@@ -89,6 +89,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkhade1555-creator&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
 </p>
 
+<!-- Profile summary cards (zero-setup, hosted) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamkhade1555-creator&theme=tokyonight" alt="profile summary" width="78%" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhamkhade1555-creator&theme=tokyonight" alt="repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhamkhade1555-creator&theme=tokyonight" alt="most commit language" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhamkhade1555-creator&theme=tokyonight" alt="stats card" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhamkhade1555-creator&theme=tokyonight&utcOffset=5.5" alt="productive time" />
+</p>
+
 <!-- ====================== ACHIEVEMENTS ====================== -->
 ### 🏆 GitHub Achievements
 
