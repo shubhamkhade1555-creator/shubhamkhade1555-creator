@@ -106,9 +106,7 @@
 
 <p align="center">
   <a href="mailto:tech@framexstudio.ai"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- TODO: USERNAME ne apna LinkedIn handle replace kar -->
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- TODO: portfolio URL replace kar (nasel tar he line delete kar) -->
+  <a href="https://www.linkedin.com/in/shubham-khade-ml/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://framexstudio.ai"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
