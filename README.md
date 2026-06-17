@@ -1,4 +1,3 @@
-<!-- ====================== BANNER ====================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00b4d8&height=200&section=header&text=Shubham%20Khade&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Real-time%20CV%20%C2%B7%20On-device%20AI&descAlignY=60&descSize=18" alt="banner" />
 </p>
@@ -136,4 +135,3 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<!-- refresh 7b7cd99 -->
