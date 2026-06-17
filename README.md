@@ -13,7 +13,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=shubhamkhade1555-creator&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/shubhamkhade1555-creator?tab=achievements">
-    <img src="https://img.shields.io/badge/Achievements-4%2B-0e75b6?style=for-the-badge&logo=github" alt="achievements" />
+    <img src="https://img.shields.io/badge/Achievements-5%2B-0e75b6?style=for-the-badge&logo=github" alt="achievements" />
   </a>
 </p>
 
@@ -97,6 +97,7 @@
   <img src="https://img.shields.io/badge/🟢%20YOLO-unlocked-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚡%20Quickdraw-unlocked-f5a623?style=for-the-badge" />
   <img src="https://img.shields.io/badge/👯%20Pair%20Extraordinaire-unlocked-9b59b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠%20Galaxy%20Brain-unlocked-1abc9c?style=for-the-badge" />
 </p>
 <p align="center"><a href="https://github.com/shubhamkhade1555-creator?tab=achievements">→ view all achievements</a></p>
 
