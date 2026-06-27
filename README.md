@@ -26,7 +26,7 @@
 - 🎯 Currently shipping: in-browser TTS studio (**Kokoro-82M**), sign-language → speech, real-time fire detection.
 - ⚡ I care about **latency, model size, and offline-first** — inference that works without a server.
 - 💬 Ask me about: **MediaPipe · PyTorch · ONNX · Transformers.js · real-time inference**.
-- 📫 Reach me: **tech@framexstudio.ai**
+- 📫 Reach me: **shubhamkhade1555@gmail.com**
 
 <!-- ====================== TECH STACK ====================== -->
 ### 🛠️ Tech Stack
@@ -128,7 +128,7 @@
 ### 🤝 Connect
 
 <p align="center">
-  <a href="mailto:tech@framexstudio.ai"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shubhamkhade1555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shubham-khade-ml/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://framexstudio.ai"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
